@@ -1,0 +1,7 @@
+{
+  "private": "true",
+  "workspaces": [
+    "bp-prj",
+    "bp-lib-str"
+  ]
+}
